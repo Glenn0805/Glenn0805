@@ -9,7 +9,7 @@ In my current role as a Web and Application Developer, I am responsible for desi
 - 🌱 I’m currently learning Java/Spring Boot
 - 💞️ I’m looking for a freelance as a Developer/Programmer
 - 📫 How to reach me ...
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+
 <!---
 Glenn0805/Glenn0805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
