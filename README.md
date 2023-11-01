@@ -8,7 +8,9 @@ In my current role as a Web and Application Developer, I am responsible for desi
 - 👀 I’m interested in making web applications
 - 🌱 I’m currently learning Java/Spring Boot
 - 💞️ I’m looking for a freelance as a Developer/Programmer
-- 📫 How to reach me ...
+- 📫 How to reach me:
+  <b>Facebook : </b> <a href="https://www.facebook.com/glenn.cavita/">Glenn Cavita - FB </a></br>
+  <b>LinkedIn : </b> <a href="https://www.linkedin.com/in/glenn-cavita-9a3691217/"> Glenn Cavita -LinkedIn </a>
 
 <!---
 Glenn0805/Glenn0805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
